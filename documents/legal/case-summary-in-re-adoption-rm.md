@@ -1,0 +1,6 @@
+In re Adoption of R.M., 2013 UT App 27
+This case stands as a landmark victory for the rights of unmarried fathers in Utah, clarifying the pathways by which a biological father can perfect his parental rights. As counsel for the appellant father, J. Keven Hofeling successfully argued that a voluntary declaration of paternity, signed by both parents, was a sufficient and independent means for a father to establish his right to consent to an adoption.
+
+The trial court had incorrectly ruled that the father must also comply with other, more demanding statutory paternity provisions. The Utah Court of Appeals reversed this decision, holding that the statute provides three distinct ways for an unmarried biological father to secure his right to consent.
+
+The court's decision affirmed that requiring compliance with multiple provisions would render parts of the statute superfluous. This ruling was a significant clarification of Utah law, directly protecting the fundamental rights of unmarried parents who have formally and mutually acknowledged paternity.

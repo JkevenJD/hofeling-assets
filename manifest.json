@@ -1,0 +1,107 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/JkevenJD/hofeling-assets/main",
+  "branding": {
+    "logo": "/branding/hofeling-logo-primary.png",
+    "logoAiAlt": "/branding/hofeling-logo-ai-alt.png",
+    "logoAiAlt2": "/branding/hofeling-logo-ai-alt-2.png",
+    "onuRingDesign": "/branding/onu-ring-design.jpg",
+    "ladyJusticeBlueGold": "/branding/lady-justice-blue-gold.jpg",
+    "signature": "/branding/hofeling-signature-facsimile.png",
+    "certificateGoodStanding": "/branding/certificate-good-standing.jpg",
+    "onuSealBw": "/branding/onu-pettit-college-seal-bw.png",
+    "onuSealGold": "/branding/onu-seal-gold.png",
+    "jurisDoctorateSeal": "/branding/juris-doctorate-seal.png"
+  },
+  "documents": {
+    "resumes": {
+      "resume2025": "/documents/resumes/resume-2025.pdf",
+      "resume2020": "/documents/resumes/resume-2020.pdf"
+    },
+    "obituaries": {
+      "stevenPayton": "/documents/obituaries/steven-payton.md",
+      "thomasHofeling": "/documents/obituaries/thomas-hofeling.md",
+      "marvinBlaineHofeling": "/documents/obituaries/marvin-blaine-hofeling.md"
+    },
+    "legal": {
+      "caseSummaryReganVBlount": "/documents/legal/case-summary-regan-v-blount.md",
+      "caseSummaryInReAdoptionRM": "/documents/legal/case-summary-in-re-adoption-rm.md"
+    },
+    "it_strategy": {
+      "professionalBio": "/documents/it_strategy/professional-bio-narrative.md",
+      "curriculumOverview": "/documents/it_strategy/curriculum-overview.md",
+      "utahTechMarketAnalysis": "/documents/it_strategy/utah-tech-market-analysis.md"
+    }
+  },
+  "photos": {
+    "professional": {
+      "tanSuitPrimary": "/photos/professional/hofeling-tan-suit-primary.jpg",
+      "blueShirtSecondary": "/photos/professional/hofeling-blue-shirt-secondary.jpg",
+      "headshotWithFlag": "/photos/professional/hofeling-headshot-with-flag.jpg",
+      "headshotBw": "/photos/professional/hofeling-headshot-bw.jpg",
+      "headshotCasualWater": "/photos/professional/hofeling-headshot-casual-water.jpg",
+      "headshotRecent1": "/photos/professional/hofeling-headshot-recent-1.jpg",
+      "headshotRecent2": "/photos/professional/hofeling-headshot-recent-2.jpg",
+      "headshotRedactedDl": "/photos/professional/hofeling-headshot-redacted-dl.jpg"
+    },
+    "biographical": {
+      "withDaughtersTrain": "/photos/biographical/hofeling-with-daughters-train.jpg",
+      "graduationWithDaughter": "/photos/biographical/hofeling-graduation-with-daughter.jpg",
+      "collegeActivist": "/photos/biographical/hofeling-college-activist.jpg",
+      "withBenFranklinStatue": "/photos/biographical/hofeling-with-ben-franklin-statue.jpg",
+      "sobrietyMedallion": "/photos/biographical/hofeling-sobriety-medallion.jpg",
+      "withSobrietyMentor": "/photos/biographical/hofeling-with-sobriety-mentor.jpg",
+      "daughtersWithNiece": "/photos/biographical/daughters-with-niece-cyndal.jpg",
+      "familyDinner": "/photos/biographical/hofeling-family-dinner.jpg",
+      "asBestMan": "/photos/biographical/hofeling-as-best-man.jpg",
+      "withEarlySobrietyGirlfriend": "/photos/biographical/hofeling-early-sobriety-girlfriend.jpg",
+      "weddingWithSponsorAndFather": "/photos/biographical/hofeling-wedding-with-sponsor-father.jpg",
+      "simoneWeddingAisle": "/photos/biographical/hofeling-simone-wedding-aisle.jpg",
+      "simoneWeddingGroup": "/photos/biographical/hofeling-simone-wedding-group.jpg",
+      "simoneWeddingDance": "/photos/biographical/hofeling-simone-wedding-dance.jpg",
+      "daughtersPortrait": "/photos/biographical/hofeling-daughters-portrait.jpg",
+      "rubyMeetingSimone": "/photos/biographical/hofeling-ruby-meeting-simone.jpg",
+      "rubyPerformance": "/photos/biographical/hofeling-ruby-performance.jpg"
+    },
+    "genealogy": {
+      "coatOfArms": "/photos/genealogy/hofeling-coat-of-arms.png",
+      "adoptedUncleWeaving": "/photos/genealogy/adopted-uncle-weaving.jpg",
+      "parentsWeddingParty": "/photos/genealogy/parents-wedding-party.jpg",
+      "familyOfOrigin": "/photos/genealogy/hofeling-family-of-origin.jpg",
+      "withDaughtersAndGrandpa": "/photos/genealogy/hofeling-with-daughters-grandpa-doyle.jpg",
+      "statueArminius": "/photos/genealogy/statue-arminius.jpg",
+      "earlyYearsCollage": "/photos/genealogy/hofeling-early-years-collage.jpg",
+      "childhoodPortrait": "/photos/genealogy/hofeling-childhood-portrait.jpg",
+      "withFatherWinter": "/photos/genealogy/hofeling-with-father-winter.jpg",
+      "ancestorsMotorcycle": "/photos/genealogy/ancestors-motorcycle.jpg",
+      "ancestorsCar": "/photos/genealogy/ancestors-car.jpg",
+      "edwinMildredWedding": "/photos/genealogy/ancestors-edwin-mildred-wedding.jpg",
+      "hofelingBrothersWedding": "/photos/genealogy/ancestors-hofeling-brothers-wedding.jpg"
+    },
+    "mentors": {
+      "stevenPayton1": "/photos/mentors/steven-payton-portrait-1.jpg",
+      "stevenPayton2": "/photos/mentors/steven-payton-portrait-2.jpg",
+      "thomasHofeling": "/photos/mentors/thomas-hofeling-portrait.jpg",
+      "marvinBlaineHofeling": "/photos/mentors/marvin-blaine-hofeling-portrait.jpg"
+    },
+    "workspace": {
+      "officeExterior": "/photos/workspace/office-exterior-main.jpg",
+      "officeOverview": "/photos/workspace/office-overview.jpg",
+      "deskCloseup": "/photos/workspace/desk-closeup.jpg",
+      "libraryAndDesk": "/photos/workspace/library-and-desk.jpg",
+      "mantleCloseup": "/photos/workspace/mantle-closeup.jpg",
+      "researchProcess": "/photos/workspace/research-process-visualized.jpg",
+      "ladyJusticeWoodFrame": "/photos/workspace/lady-justice-wood-frame.jpg",
+      "bookshelfArtifacts": "/photos/workspace/workspace-bookshelf-artifacts.jpg"
+    },
+    "thematic": {
+      "ladyJusticePaperweight": "/thematic/lady-justice-paperweight-cropped.jpg",
+      "mathesonCourthouse": "/thematic/matheson-courthouse.jpg",
+      "newtonQuote1": "/thematic/newton-quote-further-than-others.jpg",
+      "newtonQuote2": "/thematic/newton-quote-a-little-further.jpg",
+      "blackstoneQuote": "/thematic/blackstone-quote.jpg",
+      "brandeisQuote": "/thematic/brandeis-quote.jpg",
+      "shakespeareQuote": "/thematic/shakespeare-quote.jpg",
+      "struggleParable": "/thematic/struggle-parable.jpg"
+    }
+  }
+}
